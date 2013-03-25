@@ -26,15 +26,10 @@ $tpl->cache_dir = DOC_ROOT . '/cache/';
 //if (ENVIRONMENT != 'development') $tpl->caching = 1;
 $tpl->caching = false;
 $tpl->force_compile = true;
-$tpl->assign('environment', ENVIRONMENT);
 $tpl->assign('baseurl', BASEURL);
-
-// Mailer
-$Mailer = new Simple_Mail();
 
 // Auth
 $Auth = new Auth();
 
 // Is Logged In
 $tpl->assign('isLoggedIn', $Auth->isLoggedIn());
-
