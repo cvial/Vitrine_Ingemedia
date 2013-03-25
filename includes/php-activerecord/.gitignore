@@ -1,5 +1,3 @@
-.project
-.buildpath
-.settings
-*.log
-test/*.db
+includes/conf.php
+includes/db.conf.php
+templates_c/*
