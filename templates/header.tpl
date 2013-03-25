@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <!--[if lt IE 7]><html class="no-js lt-ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
 <!--[if IE 7]><html class="no-js ie7 lt-ie8 lt-ie9 lt-ie10"><![endif]-->
 <!--[if IE 8]><html class="no-js ie8 lt-ie9 lt-ie10"><![endif]-->
@@ -22,3 +24,4 @@
     </head>
     <body>
 
+ééééé
